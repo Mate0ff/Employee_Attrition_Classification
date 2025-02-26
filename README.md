@@ -8,3 +8,9 @@ This project analyzes factors influencing employee attrition using machine learn
 **Key Features:**  
 - **Quantitative:** Age, Years at Company, Monthly Income, Distance from Home  
 - **Categorical:** Job Role, Education Level, Remote Work, Work-Life Balance, Attrition (Target)  
+
+## Employee-Attrition-Prediction/
+├── data.csv                 # Raw dataset
+├── project.ipynb            # Complete analysis and modeling notebook
+├── SprawozdanieML.pdf       # Polish project report
+└── README.md
